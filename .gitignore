@@ -5,3 +5,4 @@ coverage
 .idea/
 *.log
 yarn.lock
+.nyc_output
